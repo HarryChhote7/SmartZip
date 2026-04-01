@@ -221,8 +221,6 @@ In short: You are free to use, modify, distribute, and sell anything based on Sm
 ## 🎬 Credits
 
 - **Built by** HarryChhote
-- **YouTube** → [WALL MAX FF](https://youtube.com/@wallmaxff) (replace with actual link)
-- **Product Association** → Cybercode
 
 ---
 
