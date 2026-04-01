@@ -74,7 +74,7 @@ It's the control of manual selection with the visual clarity of a proper file tr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SmartZip.git
+   git clone https://github.com/HarryChhote7/SmartZip.git
    cd SmartZip
    ```
 
